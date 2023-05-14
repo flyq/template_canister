@@ -1,1 +1,6 @@
 /target
+
+# build result of canister
+.artifact
+
+.dfx
